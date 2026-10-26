@@ -1,0 +1,12 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.402",
+        "phpmailer/phpmailer": "^7.1",
+        "fakerphp/faker": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "Lab\\": "src/"
+        }
+    }
+}
